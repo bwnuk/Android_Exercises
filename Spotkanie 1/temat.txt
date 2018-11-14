@@ -1,0 +1,12 @@
+Co bêdzie poruszone:
+1.Jaka jest struktura projektu czyli gdzie s¹ pliki .java; gdzie .xm; gdzie wsadzaæ obrazki ¿eby siê ³adnie wczyta³y; gdzie siê daje uprawnienia dla obs³ugi internetu, pamiêci, kontaktów, aparatu
+2.Jak zrobiæ pierwsz¹ apkê, co to jest activity, jak siê dodaje elementy w stylu wejœcie na tekst(EditText), buttony , obrazki
+3. Jak to skompilowaæ i wrzuciæ na tel
+4. Podpiêcie pod buttona ¿eby coœ robi³ po klikniêciu
+5. Pobranie tekstu z EditText i wyœwietlenie go gdzieœ
+6. Dodanie kolejnego activity, przejœcie do niego z jak¹œ wartoœci¹
+7. Ogarniêcie cyklu ¿ycia activity
+8. Zapisywanie sta³ych stringów,kolorków w innym pliku i wyci¹ganie ich kiedy potrzeba
+
+Podsumowuj¹c:
+W planie jest zrobienie pierwszej aplikacji, która coœ bêdzie robiæ.
